@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on solving LeetCode problems.<br>👯 I’m looking to collaborate on Graphic design and front-end projects.<br>🤝 I’m looking for help with Getting started as a data science engineer.<br>🌱 I’m currently learning Data Science.<br>💬 Ask me about C++
+🔭 I’m currently working on solving LeetCode problems.<br>👯 I’m looking to collaborate on Graphic design and front-end projects.<br>🤝 I’m looking for help with Getting started as a data scientist.<br>🌱 I’m currently learning Data Science.<br>💬 Ask me about C++
 
 
 ## 🌐 Socials:
